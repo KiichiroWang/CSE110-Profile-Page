@@ -2,7 +2,7 @@
 Hi! I'm **Kiichi** and I'm a **3rd year ICAM Major and CS Minor**. I primarily do __game development__ so I am very comfortable with C# and team-based work!
 <a name="my-custom-anchor-point"></a>
 
-![Profile Pic](index.md)
+![Profile Pic](CSE110-Profile-Page\index.md)
 
 Currently for my computer science minor, here are the classes I've taken:
 > CSE 8B,
