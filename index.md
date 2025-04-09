@@ -1,7 +1,7 @@
 # Kiichiro Wang
 Hi! I'm **Kiichi** and I'm a **3rd year ICAM Major and CS Minor**. I primarily do __game development__ so I am very comfortable with C# and team-based work!
-<a name="my-custom-anchor-point"></a>
 
+<a name="my-custom-anchor-point"></a>
 ![Profile Pic](CSE110-Profile-Page\index.md)
 
 Currently for my computer science minor, here are the classes I've taken:
@@ -25,5 +25,16 @@ As a person some of my hobbies are
 - Game Development
 
 I'm from the east coast Pennslyvania but I used to live in the bay area (San Bruno), near San Francisco for elementary school. I have 2 younger brothers both and a shiba dog back home! 
+[Link to my dog at the top!](#my-custom-anchor-point)
 
-[A link to that custom anchor](#my-custom-anchor-point)
+Here are a list of things I am comfortable and not comfortable with!
+- [x] C#
+- [x] Java
+- [ ] C
+- [x] C++ (kinda)
+- [ ] Web Dev
+- [x] .Net
+- [ ] App Development
+- [x] Game Development / Software (kinda) 
+
+I look forward to working with you!
