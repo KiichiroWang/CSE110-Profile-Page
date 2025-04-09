@@ -2,7 +2,7 @@
 Hi! I'm **Kiichi** and I'm a **3rd year ICAM Major and CS Minor**. I primarily do __game development__ so I am very comfortable with C# and team-based work!
 
 <a name="my-custom-anchor-point"></a>
-![Profile Pic](CSE110-Profile-Page/ProfilePic.jpg)
+![Profile Pic](\CSE110-Profile-Page\ProfilePic.jpg)
 
 Currently for my computer science minor, here are the classes I've taken:
 > CSE 8B,
@@ -28,7 +28,7 @@ I'm from the east coast Pennslyvania but I used to live in the bay area (San Bru
 [Link to my dog at the top!](#my-custom-anchor-point)
 
 Here are a list of things I am comfortable and not comfortable with!
-[x] C#
+- [x] C#
 - [x] Java
 - [ ] C
 - [x] C++ (kinda)
